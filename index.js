@@ -1,5 +1,5 @@
 function main() {
-  console.log('main app');
+  console.log('main app.');
 }
 
 main();
